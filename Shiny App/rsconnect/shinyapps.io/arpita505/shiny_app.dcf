@@ -1,0 +1,10 @@
+name: shiny_app
+title:
+username:
+account: arpita505
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1437843
+bundleId: 2571521
+url: https://arpita505.shinyapps.io/shiny_app/
+when: 1573139702.50038
